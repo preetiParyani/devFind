@@ -26,6 +26,19 @@
     }
   },
   {
+    "name": "Preeti Paryani",
+    "location": "Bhopal, India",
+    "bio": "I'm a Front-end developer practicing ReactJS, learning to build scalable and efficient web applications. I have a keen interest in Back-end too. So, I'm learning NodeJS.",
+    "avatar": "https://github.com/preetiParyani.png",
+    "portfolio": "https://github.com/preetiParyani",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "social": {
+      "GitHub": "https://github.com/preetiParyani",
+      "Twitter": "https://twitter.com/paryani_preeti",
+      "LinkedIn": "https://www.linkedin.com/in/preeti-paryani-07a801227/"
+    }
+  },
+  {
     "name": "Sampath",
     "location": "Hyderabad, India",
     "bio": "I am a frontend developer with expertise in React and Flutter. With over 2 years of experience. Passionate about open source and building intuitive UIs. Constantly learning and growing",
